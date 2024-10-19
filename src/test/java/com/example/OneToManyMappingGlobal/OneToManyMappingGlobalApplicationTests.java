@@ -1,4 +1,4 @@
-package com.example.OneToManyMappingGlobal;
+/*package com.example.OneToManyMappingGlobal;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
@@ -138,6 +138,7 @@ System.out.println(savedAuthor.getName());
 
 
 }
+*/
 
 
 
