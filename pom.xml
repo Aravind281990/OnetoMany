@@ -68,7 +68,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-				<mainClass>com.example.OneToManyMappingGlobal</mainClass>	
+				<mainClass>com.example.OneToManyMappingGlobal.OneToManyMappingGlobalApplication</mainClass>	
 				</configuration>
 			</plugin>
 		</plugins>
